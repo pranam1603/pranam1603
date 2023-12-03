@@ -13,7 +13,6 @@
 
 - 👋 Hi, I’m @pranam1603
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...React.js
 - 📫 How to reach me ...https://www.pranamjain.in/
 
 <!---
