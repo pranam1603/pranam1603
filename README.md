@@ -13,7 +13,7 @@
 
 - 👋 Hi, I’m @pranam1603
 - 👀 I’m interested in ...Web Development
-- 📫 How to reach me ...https://www.pranamjain.in/
+- 📫 How to reach me ...https://www.pranamjain.com/
 
 <!---
 pranam1603/pranam1603 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
