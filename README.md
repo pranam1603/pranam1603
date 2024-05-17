@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/pranam1603">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranam1603&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/microaditi">
+<a href="https://github.com/pranam1603">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranam1603&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 
